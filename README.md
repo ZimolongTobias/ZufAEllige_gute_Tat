@@ -1,5 +1,8 @@
 # Zufällige gute Tat
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![board](images/NOCHHINZUFÜGEN.jpg)  
 
 ## What ist it?
 
