@@ -22,3 +22,8 @@ To operate the machine, you need to upload the code to an Arduino Micro for it t
 ## Suggestions for improvements?
 
 We welcome suggestions and contributions that can help us improve our work. We believe that collaboration and feedback are key to success in any innovative and creative project.
+
+
+## Authors
+Auberger, Maximilian
+Zimolong, Tobias
