@@ -2,7 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![machine](images/DSC07471.JPG)  
+![machine](images/DSC07471.JPG width="50%")
+<img src="images/DSC07471.JPG" width="50%" height="50%"/>
 
 ## What ist it?
 
