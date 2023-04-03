@@ -26,4 +26,5 @@ We welcome suggestions and contributions that can help us improve our work. We b
 
 ## Authors
 Auberger, Maximilian
+
 Zimolong, Tobias
