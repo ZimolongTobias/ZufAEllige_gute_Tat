@@ -2,7 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<img src="images/DSC07471.JPG" width="50%" height="50%"/>
+
+<p align="center">
+  <img src="images/DSC07471.JPG" width="50%" height="50%"/>
+</p>
+
 
 ## What ist it?
 
