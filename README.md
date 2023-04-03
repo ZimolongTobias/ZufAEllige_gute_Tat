@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![machine](images/DSC07460.JPG)  
+![machine](images/DSC07471.JPG)  
 
 ## What ist it?
 
